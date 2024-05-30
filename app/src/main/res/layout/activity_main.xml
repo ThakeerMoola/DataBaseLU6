@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView_DB"
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/button_DB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="button_DB"
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button_DBINFO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="DB_INFO"
+        android:text="DB_INFO" />
+</LinearLayout>

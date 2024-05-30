@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000663488175",
+    "project_id": "databaselu6tm",
+    "storage_bucket": "databaselu6tm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000663488175:android:7ce8101a71a34e1280e65a",
+        "android_client_info": {
+          "package_name": "com.example.databaselu6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFIPGT3t9dORmYr34FPU1FFmqCXJqx8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
